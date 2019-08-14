@@ -18,7 +18,7 @@ class TemperatureInput extends React.Component { //functional compenents use pro
     render() {
       return (
         <div className="temperatureContainer">
-          <input type="text" scale={this.props.scale} onChange={this.handleChange} value={this.props.temperature}/> <label htmlFor={this.props.scale}>{this.props.scale.toUpperCase()}</label>
+          <input type="text" scale={this.props.scale} onChange={this.handleChange} value={this.props.temperature}/> <label htmlFor={this.props.scale}>{this.props.scale === "k" ? "" : "\u00b0"}{this.props.scale.toUpperCase()}</label>
         </div>
       );
     }
