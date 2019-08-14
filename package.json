@@ -2,7 +2,7 @@
   "name": "temp-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tohhongxiang123/Temperature-Converter-React",
+  "homepage": "https://tohhongxiang123.github.io/Temperature-Converter-React/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
