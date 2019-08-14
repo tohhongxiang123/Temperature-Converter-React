@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tohhongxiang123/Temperature-Converter-React/static/css/main.4ecd1e49.chunk.css",
-    "main.js": "/tohhongxiang123/Temperature-Converter-React/static/js/main.48d6635b.chunk.js",
-    "main.js.map": "/tohhongxiang123/Temperature-Converter-React/static/js/main.48d6635b.chunk.js.map",
-    "runtime~main.js": "/tohhongxiang123/Temperature-Converter-React/static/js/runtime~main.e76360c8.js",
-    "runtime~main.js.map": "/tohhongxiang123/Temperature-Converter-React/static/js/runtime~main.e76360c8.js.map",
-    "static/js/2.5dbd8ed4.chunk.js": "/tohhongxiang123/Temperature-Converter-React/static/js/2.5dbd8ed4.chunk.js",
-    "static/js/2.5dbd8ed4.chunk.js.map": "/tohhongxiang123/Temperature-Converter-React/static/js/2.5dbd8ed4.chunk.js.map",
-    "index.html": "/tohhongxiang123/Temperature-Converter-React/index.html",
-    "precache-manifest.79121ea3fe3ab0365f24e4e3e275df07.js": "/tohhongxiang123/Temperature-Converter-React/precache-manifest.79121ea3fe3ab0365f24e4e3e275df07.js",
-    "service-worker.js": "/tohhongxiang123/Temperature-Converter-React/service-worker.js",
-    "static/css/main.4ecd1e49.chunk.css.map": "/tohhongxiang123/Temperature-Converter-React/static/css/main.4ecd1e49.chunk.css.map"
+    "main.css": "/Temperature-Converter-React/static/css/main.4ecd1e49.chunk.css",
+    "main.js": "/Temperature-Converter-React/static/js/main.51383267.chunk.js",
+    "main.js.map": "/Temperature-Converter-React/static/js/main.51383267.chunk.js.map",
+    "runtime~main.js": "/Temperature-Converter-React/static/js/runtime~main.d2a3d002.js",
+    "runtime~main.js.map": "/Temperature-Converter-React/static/js/runtime~main.d2a3d002.js.map",
+    "static/js/2.5dbd8ed4.chunk.js": "/Temperature-Converter-React/static/js/2.5dbd8ed4.chunk.js",
+    "static/js/2.5dbd8ed4.chunk.js.map": "/Temperature-Converter-React/static/js/2.5dbd8ed4.chunk.js.map",
+    "index.html": "/Temperature-Converter-React/index.html",
+    "precache-manifest.2b913072fcaefbbaca2a251c8654664d.js": "/Temperature-Converter-React/precache-manifest.2b913072fcaefbbaca2a251c8654664d.js",
+    "service-worker.js": "/Temperature-Converter-React/service-worker.js",
+    "static/css/main.4ecd1e49.chunk.css.map": "/Temperature-Converter-React/static/css/main.4ecd1e49.chunk.css.map"
   }
 }
